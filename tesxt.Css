@@ -1,3 +1,10 @@
 p {
-    font-family: "Times New Roman", Times , Serif;
+    font-family: "Times New Roman", sans-Serif;
+    font-weight: normal;
+    font-style: oblique;
+    font-size: 12px;
+
+    font-variant: small-caps;
+
+    text-align: justify;
 }
